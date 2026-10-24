@@ -1,0 +1,5 @@
+{
+  "name": "cypilot",
+  "description": "Operator GUI and CLI for UNIMOC drives and Cyphal nodes: node discovery, live register scanning and editing, settings profiles, per-node readiness drive control, recovery workflows, plant simulation controls, and multi-node telemetry plotting.",
+  "requestFramePermissions": []
+}
